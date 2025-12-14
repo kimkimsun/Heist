@@ -1,0 +1,20 @@
+{
+    "Gun": [
+        {
+            "coolTime": 0.3
+        },
+        {
+            "coolTime": 0.25
+        }
+    ],
+    "Bullet": [
+        {
+            "damage": 1,
+            "speed": 5
+        },
+        {
+            "damage": 2,
+            "speed": 6
+        }
+    ]
+}
